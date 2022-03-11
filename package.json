@@ -1,5 +1,5 @@
 {
-  "name": "react-cool-virtual",
+  "name": "@agamrp/react-cool-virtual",
   "version": "0.7.0",
   "description": "A tiny React hook for rendering large datasets like a breeze.",
   "license": "MIT",
